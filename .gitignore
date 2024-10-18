@@ -1,1 +1,4 @@
 .uuid
+!.local/share/
+.local/share/*
+!.local/share/fonts
