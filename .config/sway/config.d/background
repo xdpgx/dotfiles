@@ -1,0 +1,6 @@
+## Output configuration
+
+# Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
+output DVI-D-1 bg /usr/share/backgrounds/nyc.jpg fill
+output HDMI-A-1 bg /usr/share/backgrounds/nyc.jpg fill
+output DP-1 bg /usr/share/backgrounds/nyc.jpg fill
