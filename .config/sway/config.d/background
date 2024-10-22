@@ -1,3 +1,3 @@
-output DVI-D-1 bg ~/.backgrounds/nyc.jpg fill
-output HDMI-A-1 bg ~/.backgrounds/nyc.jpg fill
-output DP-1 bg ~/.backgrounds/nyc.jpg fill
+output DVI-D-1 bg ~/.backgrounds/vertical.jpg fill
+output HDMI-A-1 bg ~/.backgrounds/horizontal.jpg fill
+output DP-1 bg ~/.backgrounds/horizontal.jpg fill
